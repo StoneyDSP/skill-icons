@@ -3,7 +3,7 @@
 	"devCommand": null,
 	"installCommand": null,
 	"buildCommand": null,
-	"outputDirectory": ".",
+	"outputDirectory": "./dist",
 	"public": false,
 	"framework": null,
 	"redirects": [
