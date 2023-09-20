@@ -3,13 +3,7 @@
 	"devCommand": null,
 	"installCommand": null,
 	"buildCommand": null,
-	"outputDirectory": "./dist",
+	"outputDirectory": null
 	"public": false,
-	"framework": null,
-	"redirects": [
-		{
-			"source": "/",
-			"destination": "https://github.com/StoneyDSP/skill-icons"
-		}
-	]
+	"framework": null
 }
