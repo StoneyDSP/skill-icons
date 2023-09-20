@@ -1,9 +1,0 @@
-{
-	"version": 2,
-	"devCommand": null,
-	"installCommand": null,
-	"buildCommand": null,
-	"outputDirectory": null,
-	"public": false,
-	"framework": null
-}
